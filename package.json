@@ -8,12 +8,12 @@
         "python",
         "yeoman"
     ],
-    "homepage": "https://github.com/santonocito/generator-django",
-    "bugs": "https://github.com/santonocito/generator-django/issues",
+    "homepage": "https://github.com/topwebmaster/generator-django",
+    "bugs": "https://github.com/topwebmaster/generator-django/issues",
     "author": {
-        "name": "Marco Santonocito",
-        "email": "hello@marcosantonocito.com",
-        "url": "http://www.marcosantonocito.com"
+        "name": "Dmitriy Petrov",
+        "email": "topwebmasterblog@gmail.com",
+        "url": "https://github.com/topwebmaster"
     },
     "main": "app/index.js",
     "files": [
@@ -21,7 +21,7 @@
         "templates",
         "util.js"
     ],
-    "repository": "santonocito/generator-django-base",
+    "repository": "topwebmaster/generator-django-base",
     "scripts": {
         "test": "mocha"
     },
