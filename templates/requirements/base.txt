@@ -3,11 +3,12 @@
 MySQL-python
 <% } else if (dbPostgres) { %>
 # Database Adapter
-psycopg2
+psycopg2>=2.6
 <% } %>
 
 # Django stuff
-Django
+Django>=1.8.2
+Jinja2>=2.7.3
 
 # for bcrypt passwords
 bcrypt
